@@ -3,8 +3,6 @@ const cors = require("cors");
 const cookieSession = require("cookie-session");
 const port = 8080;
 const app = express();
-//dádasdas
-//ádasd
 app.use(cors());
 /* for Angular Client (withCredentials) */
 // app.use(
